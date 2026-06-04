@@ -1,0 +1,57 @@
+
+
+
+body {   
+    background-image: url('./assets/WIZARD\ UNIVERSITY\ \(1\).webp') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+
+    font-family: "Cinzel", serif !important;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.display-5,.fw-normal,.lead ,.p1,.faculty{
+    color: azure;
+}
+
+
+.navbar{
+    background-image: url('./assets/WIZARD\ UNIVERSITY\ \(1\).png') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+
+}
+.faculty{
+    display: flex;
+
+    justify-content: center;
+}
+.carousel{
+   border:1px solid  white;
+}
+
+footer h5 {
+  color: white !important;
+}
+
+footer a.nav-link {
+  color: white !important;
+}
+
+footer a.nav-link:hover {
+  color: #d4af37 !important;
+}
+
+footer p {
+  color: white !important;
+}
+.text-body-secondary{
+  color: white !important;
+}
+
+
